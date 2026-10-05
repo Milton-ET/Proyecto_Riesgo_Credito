@@ -9,7 +9,7 @@ El objetivo del proyecto fue evaluar el riesgo de crédito mediante modelos de o
 - **Cálculo de Reservas Preventivas (CNBV):**
   - Implementación paramétrica del **Anexo 21** para la evaluación de la Cartera Comercial (MIPYMES).
   - Implementación del **Anexo 22** para la evaluación de Grandes Corporativos (combinación de factores cuantitativos y cualitativos).
-  - Estimación de la Probabilidad de Incumplimiento (PI) mediante funciones logísticas de calibración, Severidad de la Pérdida (SP) y Exposición al Incumplimiento (EAD) para el cálculo de la Pérdida Esperada (PE = PI * SP * EAD).
+  - Estimación de la Probabilidad de Incumplimiento (PI) mediante funciones logísticas de calibración, Severidad de la Pérdida (SP) y Exposición al Incumplimiento (EAD) para el cálculo de la Pérdida Esperada.
   $$\text{PE} = \text{PI} \times \text{SP} \times \text{EAD}$$
   
 ## Tecnologías y Librerías Utilizadas
